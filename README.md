@@ -1,3 +1,5 @@
+NOTE: It was tested only on Odoo V18.0, for other versions it should be adapted. 
+
 This module creates a new procure method for pull rules in Odoo that search's for another rule that supplyes the destination location for the remaining quantity that the actual rule could't get.
 It enables a parallel route for supplyng the same destination making the workflow faster and much more flexible.
 
